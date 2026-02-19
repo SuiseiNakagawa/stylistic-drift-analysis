@@ -1,0 +1,44 @@
+# --- Python bytecode / cache ---
+__pycache__/
+*.py[cod]
+*.pyo
+
+# --- Virtual environments ---
+.venv/
+venv/
+env/
+
+# --- Environment variables / secrets ---
+.env
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- Mac system files ---
+.DS_Store
+
+# --- Logs / temp ---
+*.log
+tmp/
+temp/
+
+# --- Build artifacts (if any) ---
+build/
+dist/
+*.egg-info/
+
+# --- IDEs ---
+.vscode/
+.idea/
+
+# --- Data files (usually too big / not reproducible) ---
+data/
+*.csv
+*.parquet
+past_assignments_pdf/
+
+# --- Model artifacts ---
+models/
+*.pt
+*.pth
+*.pkl

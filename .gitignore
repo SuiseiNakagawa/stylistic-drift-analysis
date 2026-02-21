@@ -33,7 +33,6 @@ dist/
 
 # --- Data files (usually too big / not reproducible) ---
 data/
-*.csv
 *.parquet
 past_assignments_pdf/
 

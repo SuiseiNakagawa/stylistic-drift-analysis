@@ -3280,12 +3280,6 @@ References
 Brent, R. P. (2002). Algorithms for Minimization Without Derivatives. Dover Publications.
 OpenAI. (2024). ChatGPT. (October 29 version) [Large Language Model]. https://chat.openai.com/chat
 Stein, W., & Cohen, N. (2008). Numerical Root Finding and Optimization. Sage Version 10.4 Documentation. Retrieved 12 3, 2024, from https://doc.sagemath.org/html/en/reference/numerical/sage/numerical/optimize.html"
-1udXtBLs1Bx3Ypq_3uPbEfN0cRAaK0Y93OhtTL1GK6t8,Reflection [final],2024-10-10T16:18:56.736Z,"﻿CS111
-Reflection Questions:
-1. I applied the following HCs:
-* #organization: I structured my answers so that my thought process was easy to follow, especially in problem 1. (e) (c) where I detailed how to derive δ. I believe that I was able to sequence and demonstrate my steps effectively.
-* #algorithms: I used algorithmic strategies to compute derivatives by applying the chain and product rules, which involve systematically breaking down the function into more manageable parts. This allowed me to solve problems involving complex functions successfully.
-2. I used AI tools, specifically ChatGPT, to help me with SageMath syntax. I typically used prompts such as “help me plot this function h(x,y) as a 3D graph.” This allowed me to use SageMath functionality, such as plotting graphs and doing complex calculations, without having to read through dense documentation. While this made my work more efficient, ChatGPT is not the best tool to generate responses based on context (such as previously defined variable names in code) and may cause unexpected errors when preexisting factors interfere with the produced code. Furthermore, it does not encourage the commitment of syntax to memory, so I often find myself still needing to reference past class resources. This use of AI has overall made my learning more efficient but will be even more helpful if I could put more effort into understanding the output and committing it to memory."
 1_38Nl-wbcmXAMCuiknzHLK97IJ4_Z5PMn2rscocunxw,Political Analysis [final],2024-12-14T05:08:21.255Z,"﻿Political Analysis
 
 

@@ -924,8 +924,7 @@ ________________
 Appendix B: AI Statement and Acknowledgments
 I used Grammarly.com to proofread my final submission. No other AI tools were used. I would also like to acknowledge my friend Lotte, who kindly participated in my video."
 1WBEvUi35le7oOk_2zZ8SldMIxv7YegdiJzfHbbh7GTc,Research Proposal [final],2025-12-17T22:40:30.699Z,"﻿Tab 1
-
-
+b
 
 
 
@@ -958,7 +957,7 @@ ________________
 
 Research Proposal: Building a Classifier for Early-Onset Alzheimer’s Disease
 In 2019, dementia was the seventh leading cause of death worldwide, responsible for an estimated 1.6 million deaths that year (World Health Organization [WHO], 2022, p. 1). AD is the most common form of dementia, contributing to roughly 50–60% of all dementia cases (Alzheimer's Disease International, n.d.). While the condition cannot be fully reversed with modern neuroscience, it is known that early discovery and intervention can delay the onset of late-stage symptoms, which largely reduce patients’ capacity for independent and healthy living (WHO, 2022, pp. 1-2). 
-One major roadblock to effective early intervention is the costly and time-intensive nature of definitive diagnostic procedures, such as comprehensive neuropsychological batteries and neuroimaging, which limits broad screening (WHO, 2022, pp. 29-30). To address this, this paper explores the question: Can behavioral[a], cognitive, and demographic features alone reliably distinguish early mild cognitive impairment (MCI), the precursor of AD, from healthy aging? Specifically, this proposal outlines the methodology for a preliminary study that could serve as a pilot for a larger scale study to build a lightweight classification model based on the aforementioned factors, and as proof of concept provides an exploratory secondary analysis to determine whether the most informative features exhibit sufficient separability to support lightweight screening in principle based on a publicly available dataset of Altzheimer’s patients. 
+One major roadblock to effective early intervention is the costly and time-intensive nature of definitive diagnostic procedures, such as comprehensive neuropsychological batteries and neuroimaging, which limits broad screening (WHO, 2022, pp. 29-30). To address this, this paper explores the question: Can behavioral, cognitive, and demographic features alone reliably distinguish early mild cognitive impairment (MCI), the precursor of AD, from healthy aging? Specifically, this proposal outlines the methodology for a preliminary study that could serve as a pilot for a larger scale study to build a lightweight classification model based on the aforementioned factors, and as proof of concept provides an exploratory secondary analysis to determine whether the most informative features exhibit sufficient separability to support lightweight screening in principle based on a publicly available dataset of Altzheimer’s patients. 
 Literature Review 
 Mild Cognitive Impairment
 MCI is recognized as a transitional state between healthy aging and AD, characterized by episodic memory decline and subtle impairments in inhibitory control, task shifting, and cognitive flexibility (Grundman, 2004, p. 59). While patients at this stage may remain functionally independent and show no to minimal impairment in basic activities of daily living (ADLs), they begin to exhibit measurable cognitive inefficiencies, such as reduced perceptual speed and category fluency, that fall significantly below those of healthy controls (Grundman, 2004, p. 64). 
@@ -1021,8 +1020,7 @@ ________________
 [1] #NeuralSubstrate
 [2] #CognitiveDevelopmentAndDecline
 [3] #ethicalconsiderations
-[4] #CritiqueExpDesign
-[a]is lifestyle behavioral? or should I add it separately?"
+[4] #CritiqueExpDesign"
 1SOckbrRM1rfszUB0JeWET5Alg1El9Bj8r04QotMOll4,Engagement Across Semester [final],2025-11-26T19:18:56.255Z,"﻿Engagement Across Semester 
 GL95
 Suisei Nakagawa
@@ -3717,6 +3715,67 @@ ________________
 [1] #levelsofanalysis: The interaction between individual rights and the societal obligation to protect them under the Kantian principle of treating humanity as an end is identified: because individual autonomy, which is made possible through education, is to be respected, the public is obliged to protect the right to education. The interaction serves as justification for progressive taxation.
 [2] #ethicalconsiderations: The underlying morals of my interlocutor’s views that public education should be made free and accessible through progressive taxation and publicizing private schools are analyzed using a Kantian rights approach and egalitarianism. These frameworks are justified as the basis of her argument is that education should be accessible to everyone and the public should make this possible.
 [3] #ethicaljudgment: My position regarding public education presented under a libertarian framework valuing individual freedom. The position is compared to my interlocutor’s belief that private schools should be publicized to redistribute funds."
+1-hY1th5LneRm3Qhf9MzWDwvDfK7KNn1n6WFw3pJBUWk,Writing Journal 2 [final],2024-02-20T03:42:32.458Z,"﻿Writing Journal Entry 5
+MC51
+
+
+Date: Februrary 19th
+Time: 20 minutes
+HC: #medium
+
+
+My current favorite song is “G.I.N.A.S.F.S.” by Fallout Boy, a rock anthem about being hung up on past love. The intro leads in with a catchy guitar riff that sets a fast-tempo eight-beat that is joined by the drums, giving the song a sense of urgency. The strong uses the same riff and rhythm pattern throughout, creating a predictability that makes the song easy to follow and sing along to. While the song is in a major key which makes it sound somewhat happy, the use of dissonant chords, especially in the chorus, keeps it from being too upbeat and in line with the lyrics about the saddening topic of heartbreak. As for texture, the guitar uses a mix of clean and distorted tones to accompany the smooth vocals, further adding to the contrast between the feel of the song and its content. These elements make for the impression of a heartfelt song that is bittersweet, sung to express the anguish of being in love with the memory of someone.
+
+
+
+
+Writing Journal Entry 6
+
+
+Date: March 1st
+Time: 20 minutes
+HC: #persuasion
+
+
+I impulsively went thrifting last weekend when I didn’t necessarily need any more clothes. It was at a pop-up store by a local thrift shop that was hosting an end-of-season sale, where customers could fill a bag with any clothes on display for $15. I found out about the event on a lifestyle account on Instagram that posts things to do in San Francisco. The post was particularly appealing because of the ELM-peripheral approaches it took: they used terms such as “only for this weekend” to emphasize scarcity and “the popular Double Vision Thrift Store” as social proof in the caption, and I already had an affinity for the account itself because of its record of showing me local low-budget activities. 
+While I did find clothes that I like and believe to be worth the $15 investment, I can defend myself from such appeals by critically analyzing the text or audio for specific expressions that influence my perception of the message. For example, I would consider the implications of describing Double Vision Thrift Store as “popular” and how that would sway the audience to go shop there. 
+
+
+
+
+Writing Journal Entry 7
+
+
+Date: March 10th
+Time: 20 minutes
+HC: none
+
+
+* #audience: We carefully shaped our message to address the specific needs and perspectives of our key audiences in developing our prototypes for the marketing of Clarion’s Rent FREE April initiative. We highlighted the event’s community and cultural benefits when pitching our initial ideas to our Civic Partner, and ensured that our deliverables were informative, engaging, creative, and visually appealing for potential audience members of Rent FREE April productions and prospective renters of Clarion’s space.
+* #gapanalysis: We identified the strengths of the current marketing, such as frequent posting on Instagram and regular updates to the website, and weaknesses such as inconsistency in brand image and visual designs that do not adhere to the standards of #communicationdesign. Thus, our deliverable provides Clarion with templates and schedules for social media posts and a new design scheme for their website to improve existing marketing rather than provide entirely new marketing methods.
+* #algorithms: We used JavaScript to animate the scrolling mechanism in early prototypes of the Rent FREE April landing page. We began by creating a flow chart representing the possible user interactions and desired behavior of the page, and branched out using if… elif… else statements, which were directly implemented in the code.
+* #shapingbehavior: We added the links to the Rent FREE April booking page and calendar to the top of the landing page as opposed to the bottom in order to make it easier for site visitors to navigate to those pages. This encourages them to book slots for their own productions or look at the calendar to find productions to watch through modifying choice architecture
+
+
+
+
+Writing Journal Entry 8
+
+
+Date: April 9th
+Time: 20 minutes
+HC: #composition
+
+
+The prospect of using augmented reality such as projected computer screens and holograms to facilitate better collaboration and communication in work and learning settings is very exciting to me, as I often feel the limitations of existing technology when communicating with people in such settings. Holographic projections could serve as a powerful visual aid in communication that can help with transmitting ideas like product designs or visions for a user interface, making team communication more effective. They could also provide learners with a more concrete idea of the subject matter they are learning about through 3D imagery. 
+While this potential application is exciting, I’m concerned about how it may lead to people devaluing in-person communication as immersive experiences allowing users to share virtual spaces with others become more realistic. Although I believe that such immersive virtual communication serves the purpose of bridging gaps in time and space by allowing people to communicate from different physical locations in a way similar to real-life interactions, they cannot and should not replace actual human interaction. Because users will be more inclined to choose virtual communication for its convenience as it becomes more realistic, I am worried that it may replace in-person interaction and lead to people being deprived of real-life connections.[1]
+
+
+
+
+AI statement: I did not use any AI tools on this assignment including Grammarly.com.
+________________
+[1] #responsibility: While I struggled with time management during the weekdays due to meetings and job interviews and had not been able to finish each entry before the next class, I budgeted time on my weekends where I had more control over my schedule to finish the prompts. In doing so, I prioritized this assignment under a internal locus of control in order to make writing a habit that I could continually improve on. I also made a goal to intentionally sit down in front of the document and write a sentence on the prompt even when I wasn’t sure how to respond to it in order to build momentum and prevent procrastination under the excuse that I don’t have any ideas."
 15L00XCs-M2hWwD93UJLLH7a-nOlnaCMK6qwfZmv5YH0,Writing Journal 1 [final],2024-01-24T21:34:55.497Z,"﻿Writing Journal Entry 1
 MC51
 
@@ -3724,11 +3783,6 @@ MC51
 Date: January 24th
 Time: 20 minutes
 HC: #designthinking
-
-
-Identify 1-3 prototyping ideas for your first CCP assignment. Consider the kinds of prototypes you read about for class and if any might be appropriate and consider the benefits of prototyping Answer these two questions in your write-up:
-* What issues might the prototypes target?
-* How can you leverage the benefits of prototyping?
 
 
 Our proposed deliverable is a marketing strategy for an event at Clarion Performance Arts Center encompassing social media posts, flyers, and a landing page for the event. We are planning on making prototypes for each aspect of the campaign, but I will focus on the landing page as prototyping the UI for it was my designated task.
@@ -3746,9 +3800,6 @@ Writing Journal Entry 2
 Date: January 24th
 Time: 20 minutes
 HC: #medium
-
-
-Find a short piece of writing (can be a social media post, advertising copy, song lyrics, or anything with words artfully arranged). Analyze it as a work of #medium.
 
 
 The following verse is from the chorus of High Hopes, a song by Panic! At the Disco:
@@ -3779,9 +3830,6 @@ Time: 20 minutes
 HC: #composition
 
 
-Try your hand at writing creative nonfiction. Write a 200-word entry about something that happened to you that illuminates something about your culture. Think about how you can ""show"" and not simply ""tell"" as well as use other kinds of non-fiction techniques.
-
-
         “No matter what you do, don’t let the candle go out.”
         My mother grips my hand tightly over the handle attached to a red paper lantern. The flame of the candle inside wavers uncertainly, almost as if to mirror my diminishing confidence in keeping it aflame until we get back to my great aunt’s home.
         We walk down the steep dirt trail from the graveyard, treading over fallen cedar branches. My back tingles with the sense of being watched. Maybe it’s the wildlife - like a rabbit or deer. Or maybe it’s my ancestors watching me, urging me to take them home safely for the week of Obon. The slanting afternoon sun dips behind the trees, casting eerie shadows on the undergrowth. The song of the cicadas rises to a deafening crescendo as we cautiously descend back into civilization.
@@ -3800,9 +3848,6 @@ Time: 20 minutes
 HC: #medium
 
 
-Writing Journal Entry 4: Take a photograph right now of something in your environment and describe how four #medium visual elements appear in the photo.
-
-
 A book by students at 826 Valencia where I volunteer:
   
 
@@ -3811,79 +3856,6 @@ A book by students at 826 Valencia where I volunteer:
 The lighting in the photo is warm and dim, making the colors appear somewhat desaturated and giving the book’s cover a calm impression despite the many colors used in it. The cover uses simple shapes such as circles and triangles to illustrate the details, making a minimalistic design that contrasts with the maximalist use of colors throughout. The forms of the stylized objects on the cover, such as the basketball, buildings, and trees, are consistently two-dimensional. The solid printed colors give the cover a matte texture.[1]
 ________________
 [1] #responsibility: While I was unable to write all of the entries immediately after each class, I made a conscious effort to complete each while the class was covering the relevant unit using my internal locus of control (the amount of assignments I had was more external, but I believed that how I structure my time is within my control). This also allowed me to use the journaling as an opportunity to reflect on course material."
-1-hY1th5LneRm3Qhf9MzWDwvDfK7KNn1n6WFw3pJBUWk,Writing Journal 2 [final],2024-02-20T03:42:32.458Z,"﻿Writing Journal Entry 5
-MC51
-
-
-Date: Februrary 19th
-Time: 20 minutes
-HC: #medium
-
-
-After this class, write an entry about your current favorite song. Describe, using the elements of music, how the song is put together and why it makes you feel the way you do when you listen to it.
-
-
-My current favorite song is “G.I.N.A.S.F.S.” by Fallout Boy, a rock anthem about being hung up on past love. The intro leads in with a catchy guitar riff that sets a fast-tempo eight-beat that is joined by the drums, giving the song a sense of urgency. The strong uses the same riff and rhythm pattern throughout, creating a predictability that makes the song easy to follow and sing along to. While the song is in a major key which makes it sound somewhat happy, the use of dissonant chords, especially in the chorus, keeps it from being too upbeat and in line with the lyrics about the saddening topic of heartbreak. As for texture, the guitar uses a mix of clean and distorted tones to accompany the smooth vocals, further adding to the contrast between the feel of the song and its content. These elements make for the impression of a heartfelt song that is bittersweet, sung to express the anguish of being in love with the memory of someone.
-
-
-
-
-Writing Journal Entry 6
-
-
-Date: March 1st
-Time: 20 minutes
-HC: #persuasion
-
-
-Write about the last time you experienced buyer's remorse. What was it about the persuasive appeal that compelled you to make the purchase? How might you defend yourself against such appeals in the future?
-
-
-I impulsively went thrifting last weekend when I didn’t necessarily need any more clothes. It was at a pop-up store by a local thrift shop that was hosting an end-of-season sale, where customers could fill a bag with any clothes on display for $15. I found out about the event on a lifestyle account on Instagram that posts things to do in San Francisco. The post was particularly appealing because of the ELM-peripheral approaches it took: they used terms such as “only for this weekend” to emphasize scarcity and “the popular Double Vision Thrift Store” as social proof in the caption, and I already had an affinity for the account itself because of its record of showing me local low-budget activities. 
-While I did find clothes that I like and believe to be worth the $15 investment, I can defend myself from such appeals by critically analyzing the text or audio for specific expressions that influence my perception of the message. For example, I would consider the implications of describing Double Vision Thrift Store as “popular” and how that would sway the audience to go shop there. 
-
-
-
-
-Writing Journal Entry 7
-
-
-Date: March 10th
-Time: 20 minutes
-HC: none
-
-
-Choose one HC from each of your four Cornerstone courses that you plan on applying in your Civic Partner Project. Check out the HC explanations template in the CCP Handbook. Write an appendix entry (~100 words) for each of them. We strongly urge you to show these to a TA during office hours after drafting them and revising according to the feedback you receive since these appendix entries will be the basis of your CPP grades. As explained in this guide, “Addressing HCs in Your Work,” there is a huge benefit of thinking about your HC applications prospectively: using them to shape your work and your experiences, rather than just tagged as an afterthought once your deliverable is complete. We hope you take this journal entry and TA office hours as an opportunity to practice the prospective approach.
-
-
-* #audience: We carefully shaped our message to address the specific needs and perspectives of our key audiences in developing our prototypes for the marketing of Clarion’s Rent FREE April initiative. We highlighted the event’s community and cultural benefits when pitching our initial ideas to our Civic Partner, and ensured that our deliverables were informative, engaging, creative, and visually appealing for potential audience members of Rent FREE April productions and prospective renters of Clarion’s space.
-* #gapanalysis: We identified the strengths of the current marketing, such as frequent posting on Instagram and regular updates to the website, and weaknesses such as inconsistency in brand image and visual designs that do not adhere to the standards of #communicationdesign. Thus, our deliverable provides Clarion with templates and schedules for social media posts and a new design scheme for their website to improve existing marketing rather than provide entirely new marketing methods.
-* #algorithms: We used JavaScript to animate the scrolling mechanism in early prototypes of the Rent FREE April landing page. We began by creating a flow chart representing the possible user interactions and desired behavior of the page, and branched out using if… elif… else statements, which were directly implemented in the code.
-* #shapingbehavior: We added the links to the Rent FREE April booking page and calendar to the top of the landing page as opposed to the bottom in order to make it easier for site visitors to navigate to those pages. This encourages them to book slots for their own productions or look at the calendar to find productions to watch through modifying choice architecture
-
-
-
-
-Writing Journal Entry 8
-
-
-Date: April 9th
-Time: 20 minutes
-HC: #composition
-
-
-What excites you about the possibilities offered by communicating in the Metaverse? What worries you? 
-
-
-The prospect of using augmented reality such as projected computer screens and holograms to facilitate better collaboration and communication in work and learning settings is very exciting to me, as I often feel the limitations of existing technology when communicating with people in such settings. Holographic projections could serve as a powerful visual aid in communication that can help with transmitting ideas like product designs or visions for a user interface, making team communication more effective. They could also provide learners with a more concrete idea of the subject matter they are learning about through 3D imagery. 
-While this potential application is exciting, I’m concerned about how it may lead to people devaluing in-person communication as immersive experiences allowing users to share virtual spaces with others become more realistic. Although I believe that such immersive virtual communication serves the purpose of bridging gaps in time and space by allowing people to communicate from different physical locations in a way similar to real-life interactions, they cannot and should not replace actual human interaction. Because users will be more inclined to choose virtual communication for its convenience as it becomes more realistic, I am worried that it may replace in-person interaction and lead to people being deprived of real-life connections.[1]
-
-
-
-
-AI statement: I did not use any AI tools on this assignment including Grammarly.com.
-________________
-[1] #responsibility: While I struggled with time management during the weekdays due to meetings and job interviews and had not been able to finish each entry before the next class, I budgeted time on my weekends where I had more control over my schedule to finish the prompts. In doing so, I prioritized this assignment under a internal locus of control in order to make writing a habit that I could continually improve on. I also made a goal to intentionally sit down in front of the document and write a sentence on the prompt even when I wasn’t sure how to respond to it in order to build momentum and prevent procrastination under the excuse that I don’t have any ideas."
 1i5qrbEXYsLuJ5Z1v5M2xQ7t3ek6mdk7VTvWH524xFRE,Script [final],2024-04-04T21:34:56.385Z,"﻿Video script
 MC51
 Let’s talk FASHION.
@@ -4058,108 +4030,6 @@ Tani, T. (2015). Hyakunin Isshu (Zen): Bigināzu Kurashikkusu Nihon no Koten. [O
 YouTube. (2015, May 11). 百人一首 018 藤原敏行朝臣 住の江の 岸に寄る波 よるさへや 夢の通ひ路 人目よくらむ. [Entry number 18 in the ogura hyakunin isshu: “suminoeno kishi ni yoru nami yorusaeya yumenokayoiji hitomeyokuramu” by Fujiwara no Toshiyuki Ason]YouTube. https://www.youtube.com/watch?v=tLgLo0u3v58  
    6. Note on AI use
 I used Grammarly.com to proofread my script for the narration. I did not use any other AI tools for this assignment."
-1DOBae-7Z38KjhJK52r9-CIdNIorfGEYY5K7VerGBABY,Research Design [final],2024-03-09T21:58:24.703Z,"﻿Research Design
-
-
-
-
-Minerva University
-EA51: Empirical Analyses
-Prof. N. Klein
-March 9, 2024
-
-
-
-
-
-
-
-
-
-
-________________
-
-
-
-
-Questions about your study design
-	Your response
-	What is your research question?
-
-
-	Does instruction by 826 Valencia’s tutors improve students' writing?
-	Write two hypotheses and put the one that you will focus on in your paper in bold.
-
-
-	* If students participate in 826 Valencia in-school programs, their writing skills improve because of the personalized instruction they receive from their tutors.
-* If students participate in 826 Valencia in-school programs, their writing skills improve because the emphasis on creative writing encourages them to explore writing styles well-suited to them.
-	For your bolded hypothesis that you will focus on in your paper, write three predictions. Choose one of those predictions to focus on in your paper and put it in bold. Your study design should propose how to test this prediction to determine support for or against your bolded hypothesis.
-	Students who received individual instruction will see more improvement in their scores on a writing test than those who didn’t.
-	What are potential ethical considerations of your study?
-	Intentionally withholding instruction methods that are though to be effective isn't fair to students in the control group
-	What type of research design will you use?
- [interventional study (e.g., RCT, quasi-experiment) or observational study (e.g., case-control study, cross-sectional study)]
-	Retrospective quasi-experimental study with pre- and post-test 
-	What sampling strategy will you use?
-	Convenience sampling (programs differ in curriculum and many programs are one-time only so lack in reference for comparison)
-	What are your treatment(s) [if applicable]
-	In-school program administered by 826 Valencia
-	What are your independent and dependent variables?
-	Independent: the treatment or lack thereof
-Dependent: the difference in the score on a writing test administered pre- and post-treatment
-	What are your controls? 
-[address group(s) and variable(s) as appropriate]
-	* School and program the students belong to 
-* Grade (as in K-12)
-* Type of program
-	What are potential confounding variable(s)?
-	* Time spent writing outside of classes
-* Attendance over duration of the program
-* Other classes taken over duration of program
-	Does your study design properly address ethical considerations? [It’s good to think of this at multiple points in the process, especially before collecting data]
-	* Quasi-experimental design using classes that did and didn’t receive instruction makes it fair as there is no intentional withholding of instruction
-	
-
-________________
-
-
-Research Design
-While the budget for education has been increased by $1.4 million in the current school year compared to the last, many of San Francisco’s schools are still severely under-resourced (San Francisco Unified School District, 2023; Tucker, 2023). 826 Valencia is a nonprofit organization that seeks to alleviate this problem by supporting under-resourced students through one-on-one tutoring in writing (826 Valencia, n.d.). They offer after-school tutoring and in-school programs where tutors visit local schools to assist teachers.
-This paper proposes a study design guided by the research question: Does instruction in 826 Valencia’s programs improve students’ writing? The study will assess the impact 826 Valencia has on local students by testing the hypothesis that if students participate in their in-school programs, their writing skills will improve because of the personalized instruction they receive from tutors.[1] This hypothesis draws on existing research on personalized attention from instructors, which has been found to “[enhance] student engagement, motivation, and academic performance (Wentzel, 1997).” Furthermore, it has been found that close student-teacher relationships contribute to better learning outcomes (Pianta & Stuhlman, 2004). This also lends to the hypothesis as their educational model and curriculum allow students to develop close relationships with their tutors as a byproduct of one-on-one instruction and individual attention.[2] We predict that if the hypothesis holds true, students who received individualized tutoring at 826 Valencia programs will see more improvement in writing skills measured by writing tests than students who only received traditional classroom instruction.[3]
-The study will be of a retrospective quasi-experimental design, where results from tests measuring students’ writing skills before and after 826 Valencia in-school programs will be compared between treatment and control groups. Although an interventional study would be ideal as the study aims to establish a causal relationship, such a design would raise ethical concerns from an egalitarian standpoint. Thus, a quasi-experimental design was selected to address the concern for equality of opportunities, as an interventional study will incur the intentional withholding of instruction that is believed to be effective. Instead of withholding effective instruction, this study proposes that classes that could not receive instruction in 826 Valencia programs, let it be due to organizational constraints on 826 Valencia’s end or structural constraints on the schools’ end, be used for the control groups.[4]
-The treatment will be the administration of 826 Valencia in-school programs, which take place as a part of classes in English literature or similar subjects. To ensure that the treatment and control groups are comparable, they will be controlled for factors such as the type of program administered, the school and curricular path the students belong to, and the students’ grade. These controls prevent confounding factors such as other classes contributing to improvements in students’ writing skills by ensuring that their course offerings are similar.[5] However, these controls pose a constraint to sampling since in-school programs are often administered to entire grades within a school. Thus, sampling will be conducted based on convenience to select homeroom classes from the same school, curricular path, and grade that had and had not been administered the treatment. This sampling process will be repeated for the most recent ten programs where homerooms, which will be the experimental unit, can be selected to be treatment and control groups. While this sampling method does not yield results generalizable to the entire population of students in San Francisco, it cannot be avoided in order to control for the aforementioned conditions.[6] 
-The students’ writing skills will be measured through tests conducted before and after the program, which are typically one to two months long with tutors instructing students in small groups for one to two hours a week, is administered. As this study is intended to be retrospective, the testing will take the form of evaluating students’ past writing that had been submitted as preparatory work for the program and the work they submitted at the end of the program on two scales: a higher-level propositions count and a surface-level errors count proposed in Kepner ( 1991). For the control groups that did not participate in the 826 Valencia programs, the texts used for pre- and post-program tests will be substituted with essays or other pieces of writing written at similar times for the same class the 826 Valencia programs took place in. We will rely on teachers at schools where the in-school programs took place to provide these texts. The higher-level propositions count measures the ideational quality of text as a tally count of propositions that display “the cognitive processes of analysis, comparison/contrast, inference/interpretation, and/or evaluation (Kepner, 1991)” whereas the surface-level errors count is a simple tally count of errors in grammar, vocabulary, and syntax. These evaluations will be conducted by researchers and co-raters who are blinded to each other’s identities and the source of the texts in order to reduce confirmation bias, which is likely to occur given that the texts provided for the treatment and control groups will most likely have different themes that would indicate which group they are from.[7]
-Each student will have the difference between their pre- and post-program scores computed to assess overall improvements in their writing skills, and these trends will be compared across control and treatment groups from the same program with statistical tools to test for statistical and practical significance. Students who have missed more than 50% of the program sessions will be excluded from the assessment as they will not have received sufficient instruction to fully experience the benefits of individualized attention.
-While the study strives to control for confounding variables such as instruction received outside of 826 Valencia programs by selecting homerooms consisting of students who take similar classes and electives, it fails to take into account the time students spend writing outside of classes. This may be problematic as some students spend significantly more time on their drafts, especially if they have chosen a topic they are passionate about, compared to their less motivated peers. However, the effect of this factor is in theory mitigated since homerooms are randomly allocated among students in the same grade and curricular program. 
-From this study, we expect to see a practically significant difference in students’ improvement in writing over the duration of 826 Valencia in-school programs depending on whether they did or did not belong to a class that took part in the programs. Specifically, we expect students who participated in the programs will see more improvement in their writing skills compared to their peers who did not. This will provide evidence in favor of the hypothesis that individualized instruction at 826 Valencia programs effectively facilitates improvements in writing, as the fundamental difference between 826 Valencia programming and conventional classroom teaching is the amount of individual attention instructors are able to provide to students due to the enormous difference in student-to-teacher ratios. Such results could potentially lead to research on how the distinct instruction strategies implemented by 826 Valencia tutors contribute to improvements in specific aspects of students’ writing, as tutoring practices at 826 Valencia are standardized through regular orientation sessions. Conversely, if there is no practically significant difference observed, it would reveal the need for 826 Valencia to revise their programming and curriculums in order to achieve better learning outcomes for students. 
-
-
-
-
-Word Count: 1,204 words
-Statement on AI use: I used Grammarly.com to proofread the final draft of this assignment. No other AI tools were used. 
-
-
-________________
-
-
-References
-826 Valencia. (n.d.). About. https://826valencia.org/about/ 
-Kepner, C. G. (1991). An experiment in the relationship of types of written feedback to the development of second-language writing skills. The Modern Language Journal, 75(3), 305. https://doi.org/10.2307/328724 
-Pianta, R. C., & Stuhlman, M. W. (2004). Teacher-child relationships and children’s success in the first years of school. School Psychology Review, 33(3), 444–458. https://doi.org/10.1080/02796015.2004.12086261 
-San Francisco Unified School District. (2023). SF Board of Education adopts plan and Budget for 2023-24 school year. SFUSD. https://www.sfusd.edu/about-sfusd/sfusd-news/press-releases/2023-06-22-sf-board-education-adopts-plan-and-budget-2023-24-school-year 
-Tucker, J. (2023, December 27). S.F. Public Schools facing a $420 million deficit. here’s how it got so bad. San Francisco Chronicle. http://www.sfchronicle.com/bayarea/article/sfusd-deficit-budget-staff-cuts-18562068.php 
-Wentzel, K. R. (1997). Student motivation in middle school: The role of perceived pedagogical caring. Journal of Educational Psychology, 89(3), 411–419. https://doi.org/10.1037/0022-0663.89.3.411  
-
-
-________________
-[1] #hypothesisdevelopment: A hypothesis regarding the intended impact of 826 Valencia, which is to support students in their writing skills, is developed with a causal mechanism supported py prior research. An alternative hypothesis is considered in the cover sheet attached to this assignment. 
-[2] #evidencebased: Two lines of relevant scholarly evidence were employed in developing the hypothesis that individual attention from instructors facilitates learning. The use of the overall conclusions of the cited studies is justified through their relevance to the topic of one-on-one education models.
-[3] #testability: A prediction that will clearly support the hypothesis that 826 Valencia programs improve student writing through individual instruction is presented. The practicality of testing the prediction is also considered in terms of ethics and feasibility of collecting texts, as discussed later in the assignment. 
-[4] #interventionalstudy: A quasi-experimental study is proposed and justified to assess the causality of individualized instruction in 826 Valencia program and improvements in student’s writing skills within relevant ethical constraints. The design is explained in depth in the following paragraphs.
-[5] #comparisongroups: A treatment and control group were proposed to test the hypothesis. Methods to control for potential confounding variables are also identified and proposed.
-[6] #sampling: Convenience sampling is selected as the optimal sampling method that satisfies the conditions to control for confounding variables and the experimental unit is defined. The limitations of the generalizability of the results posed by the sampling method are also discussed. 
-[7] #biasmitigation: Two strategies to mitigate confirmation bias are proposed. While blinding the researchers from the group the text comes from is ideal, the commonalities in theme are identified as potential giveaways. Thus, dual testing is proposed as a complementary measure to further mitigate confirmation bias."
 1afMvwMAFbw0B3-z251YGfR5a70wrT9EoNYITIZo4G4k,Biases [final],2024-02-01T16:48:50.404Z,"﻿Biases
 
 

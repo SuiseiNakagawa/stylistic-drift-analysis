@@ -35,6 +35,7 @@ dist/
 data/
 *.parquet
 past_assignments_pdf/
+*.pdf
 
 # --- Model artifacts ---
 models/

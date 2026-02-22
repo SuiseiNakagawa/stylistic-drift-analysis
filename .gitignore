@@ -36,6 +36,7 @@ data/
 *.parquet
 past_assignments_pdf/
 *.pdf
+*.png
 
 # --- Model artifacts ---
 models/

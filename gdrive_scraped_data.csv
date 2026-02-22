@@ -3136,51 +3136,6 @@ if __name__ == ""__main__"":
    print(""Task order matches the expected order."")"
 1PPHMO6Bji0jpub8HKngru8vZ7zYdoMKoOY261ioqjj0,#audience application [final],2024-10-09T13:49:04.388Z,"﻿CS110
 I applied #audience as I tailored my videos to an audience with less technical background (such as a 12-year-old) and my complexity analysis to an audience with a much deeper understanding of concepts such as Big-O notation and the cost of individual operations. (43 words)"
-1r9DQiDVjTFhBp5S-pKBwYg1UAKVxH2WIDtcA2dCT_9Y,Video script [final],2024-10-05T07:50:15.992Z,"﻿CS110
-Problem 1
-Outline:
-* Problem
-   * We need to go down n steps of stairs
-   * We can take 1 step or 2 steps at a time
-   * How many patterns of getting down are there?
-* Observation
-   * We are on the nth step
-   * We can get there by going down from the (n-1)th or (n-2)th step
-   * So, the ways to get to the nth step are the sum of the ways to get to the (n-1)th or (n-2)th step
-* Iterative approach
-   * We know the answer when n=0, n=1, and n=2
-   * So, we know the answer for n=3 because it’s the sum of n=1 and n=2
-   * We keep adding until we get to n 
-* Recursive approach
-   * We think backward
-   * We are on the nth step
-   * We can get there by going down from the (n-1)th or (n-2)th step
-   * We can do the same with the (n-1)th and (n-2)th steps
-   * We can keep backtracking until we’re thinking about how to get to the nth step in terms of how to get to the 1st step and 2nd step
-
-
-
-
-Problem 2
-Outline:
-* Problem
-   * We need to combine and sort two lists of tuples containing students’ IDs and their grades for an assessment, both sorted in descending order by grade and then ID for the same grade 
-   * If the student was assessed in both, we pick their higher grade
-   * How do we use the pre-sorted nature?
-* Observation
-   * If the input lists are already sorted, it would be good to look at both and combine them in sorted order
-   * We start an empty list and call it merged_list
-   * We look at both lists and look at the grade of our current item
-   * If the grade of one is greater, we go ahead and add it
-   * If the grades are the same, we compare IDs and add them in descending order
-   * If we keep comparing and one list has items left, we add all of them
-   * Now we have a sorted merged list
-   * We can then look at the IDs and keep track of students who have already appeared
-   * Once they appear, we add their ID to our list of seen IDs
-   * We start two empty lists: one for ID tracking and one for the final sorted_list
-   * We add the data only if the student’s ID has not previously appeared
-   * If they have already appeared, they had a higher grade in their previous appearance
-   * Now we have a sorted list"
 1GjX7u9rgLssXjnjOzvzw1RN0kfz4nN0J7PrllVUdhxI,Technical Interview and Self-Reflection [final],2024-12-03T14:43:42.084Z,"﻿Technical Interview and Self-Reflection
 
 

@@ -1,4 +1,4 @@
-# AI Stylistic Drift Detection
+# AI-like Stylistic Drift Detection
 
 ## Overview
 
@@ -6,12 +6,12 @@ This project analyzes whether my personal writing exhibits measurable stylistic 
 
 ## Research Question
 
-Does my writing style show measurable differences between pre-AI and post-AI periods? If so, which stylometric features drive the classification?
+Does my writing style show measurable differences between before and after I started using more AI? If so, which stylometric features drive the classification?
 
 ## Dataset
 
-* **Source**: 51 personal academic assignments from Google Drive (Minerva University)
-* **Split**: 23 pre-AI (pre-Fall 2024), 28 post-AI (Fall 2024+)
+* **Source**: 50 personal academic assignments from Google Drive (Minerva University)
+* **Split**: 22 pre-AI (pre-Fall 2024), 28 post-AI (Fall 2024+)
 * **Training/Test**: 45 docs for 5-fold CV, 5 held-out for final evaluation
 * **Exclusions**: Group work, heavily templated documents, low-prose assignments, hand-written work
 * **Representation**: Solo-authored essayistic work (papers, reflections, scripts)
@@ -26,7 +26,7 @@ Does my writing style show measurable differences between pre-AI and post-AI per
    - Remove cover sheets and headers
    - Remove table of contents
    - Extract body only (exclude references, appendices, AI statements)
-   - Remove metadata tags (HC/LO)
+   - Remove metadata tags (footnotes)
 4. **Tokenization**: spaCy NLP with sentencizer (no lemmatization)
 5. **Feature engineering**: 12 stylometric features
 6. **Train/test split**: Stratified, with 5-document holdout
